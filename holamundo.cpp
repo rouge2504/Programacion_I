@@ -1,3 +1,6 @@
 Esta mamada que es?
 huevos pal Diego
-hola soy homero chino
+hola amigos los quiero
+hoal soy homero chino
+
+
