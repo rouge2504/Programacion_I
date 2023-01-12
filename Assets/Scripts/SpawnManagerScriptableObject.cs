@@ -7,9 +7,8 @@ public class SpawnManagerScriptableObject : ScriptableObject
 
     public int numberOfPrefabsToCreate;
 
-    public Vector4[] spawnPoints;
+    public Vector3[] spawnPoints;
+    public int soyHacker = 10000; //esto lo hizo el crack de Abel xD e.
 
-    public int soyHacker = 10000; //esto lo hizo el crack de Abel xD e.e
-    
 
 }
