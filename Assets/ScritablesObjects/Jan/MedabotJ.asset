@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bba5c3817c984ab4a96e66b0e5bbb51e, type: 3}
   m_Name: MedabotJ
   m_EditorClassIdentifier: 
-  nombre: 
-  medalla: 0
-  vida: 0
-  def: 0
-  vel: 0
-  ataque: 0
-  ataque_especial: 0
+  nombre: Medabot J
+  medalla: 1
+  vida: 20
+  def: 10
+  vel: 15
+  ataque: 5
+  ataque_especial: 10
