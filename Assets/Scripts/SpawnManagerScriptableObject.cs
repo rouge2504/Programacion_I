@@ -1,6 +1,8 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "NewDat", menuName = "ScriptableObjects/Nosequeesesto", order = 1)]
+
+[CreateAssetMenu(fileName = "Arriba la capiza", menuName = "ScriptableObjects/EstaBasura", order = 1)]
+
 public class SpawnManagerScriptableObject : ScriptableObject
 {
     public string prefabName;
