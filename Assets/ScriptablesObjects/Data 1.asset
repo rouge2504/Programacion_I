@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d5cbe8596aecab469a82133005e8ff4, type: 3}
   m_Name: Data 1
   m_EditorClassIdentifier: 
-  prefabName: 
+  prefabName: Mundo
   numberOfPrefabsToCreate: 0
   spawnPoints: []
