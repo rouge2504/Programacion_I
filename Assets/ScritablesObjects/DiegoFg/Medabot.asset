@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombre: Juanchito
   medalla: 0
-  vida: 100
+  vida: 20
   def: 25
   vel: 5
   ataque: 5
