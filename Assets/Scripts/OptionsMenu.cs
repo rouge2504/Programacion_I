@@ -6,13 +6,18 @@ using UnityEngine.Audio;
 public class OptionsMenu : MonoBehaviour
 {
     [SerializeField] private AudioMixer audioMixer;
-    public void FullScreen(bool pantallaCompleta)
+    public void PantallaCompleta(bool pantallaCompleta)
     {
         Screen.fullScreen = pantallaCompleta;
     }
 
-    public void ChangeVolume(float volume)
+    public void CambiarVolumen(float volumen)
     {
-        audioMixer.SetFloat("Volume", volume);
+        audioMixer.SetFloat("Volumen", volumen);
+    }
+
+    public void ChangeQuality(int index)
+    {
+        QualitySettings.SetQualityLevel(index);
     }
 }
