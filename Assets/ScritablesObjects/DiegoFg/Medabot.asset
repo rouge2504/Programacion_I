@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: Medabot
   m_EditorClassIdentifier: 
   nombre: Juanchito
-  medalla: 0
-  vida: 20
-  def: 25
-  vel: 5
-  ataque: 5
-  ataque_especial: 10
+  medal: 1
+  health: 20
+  maxhealth: 20
+  deffense: 25
+  speed: 5
+  attack: 5
+  spirit: 10
+  level: 0

@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: Medabot
   m_EditorClassIdentifier: 
   nombre: P - E - T
-  medalla: 0
-  vida: 20
-  def: 5
-  vel: 10
-  ataque: 15
-  ataque_especial: 10
+  medal: 1
+  health: 20
+  maxhealth: 20
+  deffense: 5
+  speed: 10
+  attack: 15
+  spirit: 10
+  level: 0

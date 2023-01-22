@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: Medabot
   m_EditorClassIdentifier: 
   nombre: Zett
-  medalla: 1
-  vida: 20
-  def: 15
-  vel: 5
-  ataque: 7
-  ataque_especial: 13
+  medal: 1
+  health: 20
+  maxhealth: 20
+  deffense: 15
+  speed: 5
+  attack: 7
+  spirit: 13
+  level: 0
