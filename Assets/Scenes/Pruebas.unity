@@ -424,7 +424,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2799223458169011983, guid: ccb7231f8a4b799419c6a588a5eeb335, type: 3}
       propertyPath: m_Name
-      value: "Sin ti\u0301tulo 2"
+      value: Juanchito
       objectReference: {fileID: 0}
     - target: {fileID: 4047406575316330955, guid: ccb7231f8a4b799419c6a588a5eeb335, type: 3}
       propertyPath: m_RootOrder
