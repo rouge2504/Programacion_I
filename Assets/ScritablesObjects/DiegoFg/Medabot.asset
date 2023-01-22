@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Medabot
   m_EditorClassIdentifier: 
   nombre: Juanchito
-  medalla: 0
+  medalla: 1
   vida: 20
   def: 25
   vel: 5
