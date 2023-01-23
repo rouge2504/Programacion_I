@@ -676,6 +676,7 @@ GameObject:
   - component: {fileID: 2705078083661964443}
   - component: {fileID: 2705078083661964442}
   - component: {fileID: 2705078083661964441}
+  - component: {fileID: 6892095771141586788}
   m_Layer: 0
   m_Name: Carniball
   m_TagString: Untagged
@@ -820,6 +821,26 @@ MonoBehaviour:
     showGizmo: 1
   - color: {r: 0, g: 1, b: 0, a: 1}
     showGizmo: 1
+--- !u!95 &6892095771141586788
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2705078083661964440}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cbbd48905dc926c44bfa568dc6935389, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2705078083728343429
 GameObject:
   m_ObjectHideFlags: 0

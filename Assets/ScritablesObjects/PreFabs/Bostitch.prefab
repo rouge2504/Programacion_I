@@ -399,6 +399,7 @@ GameObject:
   - component: {fileID: 1680761909841276038}
   - component: {fileID: 1680761909841276039}
   - component: {fileID: 6095700440756534841}
+  - component: {fileID: 6347007097561721759}
   m_Layer: 0
   m_Name: Bostitch
   m_TagString: Untagged
@@ -543,6 +544,26 @@ MonoBehaviour:
     showGizmo: 1
   - color: {r: 0, g: 1, b: 0, a: 1}
     showGizmo: 1
+--- !u!95 &6347007097561721759
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1680761909841276036}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: af2c9393580732748bb51e5cd67a9e0d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1680761909897195444
 GameObject:
   m_ObjectHideFlags: 0
