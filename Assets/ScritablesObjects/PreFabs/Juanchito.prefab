@@ -237,6 +237,7 @@ GameObject:
   - component: {fileID: 2334286180791118310}
   - component: {fileID: 7180836769814152716}
   - component: {fileID: 2223725414999293727}
+  - component: {fileID: 7625090448059319741}
   m_Layer: 0
   m_Name: Juanchito
   m_TagString: Untagged
@@ -381,6 +382,26 @@ MonoBehaviour:
     showGizmo: 1
   - color: {r: 0, g: 1, b: 0, a: 1}
     showGizmo: 1
+--- !u!95 &7625090448059319741
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2017133978588813053}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 812d993d02025a24dab5e3f2633b0483, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2268577967001792028
 GameObject:
   m_ObjectHideFlags: 0
