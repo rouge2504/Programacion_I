@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: LicalexMedabot
   m_EditorClassIdentifier: 
   nombre: Licalex
-  medalla: 1
-  vida: 20
-  def: 10
-  vel: 5
-  ataque: 10
-  ataque_especial: 15
+  medal: 1
+  health: 20
+  maxhealth: 20
+  deffense: 10
+  speed: 5
+  attack: 10
+  spirit: 15
+  level: 0

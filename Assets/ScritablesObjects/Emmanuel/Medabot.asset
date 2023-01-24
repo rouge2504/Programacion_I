@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bba5c3817c984ab4a96e66b0e5bbb51e, type: 3}
   m_Name: Medabot
   m_EditorClassIdentifier: 
-  nombre: 
-  medalla: 0
-  vida: 20
-  def: 5
-  vel: 15
-  ataque: 15
-  ataque_especial: 5
+  nombre: Bostitch
+  medal: 1
+  health: 20
+  maxhealth: 20
+  deffense: 5
+  speed: 15
+  attack: 15
+  spirit: 5
+  level: 0

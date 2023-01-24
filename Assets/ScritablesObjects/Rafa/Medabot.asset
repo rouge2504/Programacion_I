@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: Medabot
   m_EditorClassIdentifier: 
   nombre: Carniball
-  medalla: 1
-  vida: 20
-  def: 3
-  vel: 2
-  ataque: 10
-  ataque_especial: 25
+  medal: 1
+  health: 20
+  maxhealth: 20
+  deffense: 3
+  speed: 2
+  attack: 10
+  spirit: 25
+  level: 0

@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: Medabot
   m_EditorClassIdentifier: 
   nombre: Metabee
-  medalla: 1
-  vida: 100
-  def: 100
-  vel: 100
-  ataque: 100
-  ataque_especial: 100
+  medal: 1
+  health: 100
+  maxhealth: 100
+  deffense: 100
+  speed: 100
+  attack: 100
+  spirit: 100
+  level: 0
